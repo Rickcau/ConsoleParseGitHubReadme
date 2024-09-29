@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleParseGitHubReadme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4518777c8c5e46d01e7ac9d5a0d5b264ff6ecdac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleParseGitHubReadme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleParseGitHubReadme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
